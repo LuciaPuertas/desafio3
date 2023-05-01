@@ -1,0 +1,33 @@
+/* reset */
+* {
+    margin: 0;
+    padding-left: 0;
+    box-sizing: border-box; }
+
+/* estilos del fondo */
+body {
+    background-color:#ff9a52; 
+    background-image: url(../imagenes/pizza.jpg);
+    background-repeat:repeat;
+}
+  
+  main {
+    background-color: #ffbf91; }
+  
+  header {
+    background-color: #ff9a52; }
+
+    p {
+    font-weight:bolder;
+    color:white;
+  }
+    
+    
+    h2 {
+        color:white;
+  }
+
+  .carbody {
+    background-image: url(../imagenes/pizza.jpg);
+  }
+ 
